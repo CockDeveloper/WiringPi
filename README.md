@@ -6,6 +6,12 @@ The Open source project of WiringPi on OrangePi. maintain from www.orangepi.org
 ### Modify:
 This branch for build on Code::Blocks on Windows (Window 10)
 
+1. Example Blink Led
+git@github.com:CockDeveloper/OPi_GPIO_LedBlink.git
+https://github.com/CockDeveloper/OPi_GPIO_LedBlink
+
+This Example only use folder wiringPi for build
+
 ### Usage
 
   * Download
