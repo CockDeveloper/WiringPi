@@ -3,6 +3,9 @@ WiringPi on OrangePi
 
 The Open source project of WiringPi on OrangePi. maintain from www.orangepi.org
 
+### Modify:
+This branch for build on Code::Blocks on Windows (Window 10)
+
 ### Usage
 
   * Download
